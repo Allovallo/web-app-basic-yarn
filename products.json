@@ -1,0 +1,38 @@
+[
+    {
+        "id": "0",
+        "image": "https://cdn.shopify.com/s/files/1/0533/2089/files/placeholder-images-product-2_large.png?format=webp&v=1530129318",
+        "name": "Кросівки",
+        "price": 200
+    },
+    {
+        "id": "1",
+        "image": "https://cdn.shopify.com/s/files/1/0533/2089/files/placeholder-images-product-5_large.png?format=webp&v=1530129458",
+        "name": "Годинники",
+        "price": 800
+    },
+        {
+        "id": "2",
+        "image": "https://cdn.shopify.com/s/files/1/0533/2089/files/placeholder-images-product-3_large.png?format=webp&v=1530129341",
+        "name": "Окуляри",
+        "price": 400
+    },
+        {
+        "id": "3",
+        "image": "https://cdn.shopify.com/s/files/1/0533/2089/files/placeholder-images-product-1_large.png?format=webp&v=1530129292",
+        "name": "Рюкзаки",
+        "price": 100
+    },
+        {
+        "id": "4",
+        "image": "https://cdn.shopify.com/s/files/1/0533/2089/files/placeholder-images-product-4_large.png?format=webp&v=1530129360",
+        "name": "Кепки",
+        "price": 500
+    },
+            {
+        "id": "5",
+        "image": "https://cdn.shopify.com/s/files/1/0533/2089/files/placeholder-images-product-6_large.png?format=webp&v=1530129477",
+        "name": "Лампи",
+        "price": 600
+    }
+]
