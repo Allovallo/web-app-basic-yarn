@@ -18,9 +18,9 @@ app.engine(
 // http://localhost: 4444/about
 
 app.get('/', (req, res) => {
-    console.log('Це колбек для app.get("/")');
-    console.log(req.url);
-    res.send('<h1>Привіт, це /</h1>');
+    // console.log('Це колбек для app.get("/")');
+    // console.log(req.url);
+    // res.send('<h1>Привіт, це /</h1>');
     res.render('home', {
         cssFileName: 'home',
         pageTitle: 'Домашня сторінка'
@@ -28,9 +28,9 @@ app.get('/', (req, res) => {
 });
 
 app.get('/products', (req, res) => {
-    console.log('Це колбек для app.get("/")');
-    console.log(req.url);
-    res.send('<h1>Привіт, це /</h1>');
+    // console.log('Це колбек для app.get("/")');
+    // console.log(req.url);
+    // res.send('<h1>Привіт, це /</h1>');
     res.render('products', {
         products,
         cssFileName: 'products',
@@ -45,9 +45,9 @@ app.get('/product/:productId', (req, res) => {
 })
 
 app.get('/about', (req, res) => {
-    console.log('Це колбек для app.get("/about")');
-    console.log(req.url);
-    res.send('<h1>Привіт, це /about</h1>');
+    // console.log('Це колбек для app.get("/about")');
+    // console.log(req.url);
+    // res.send('<h1>Привіт, це /about</h1>');
     res.render('about', {
         cssFileName: 'about',
         pageTitle: 'Про нас'
